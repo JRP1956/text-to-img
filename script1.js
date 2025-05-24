@@ -1,4 +1,4 @@
-const token = "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"
+const token = "YOUR-HUGGING-FACE-TOKEN"
 const button = document.getElementById("button")
 const image = document.getElementById("image")
 const inputText = document.getElementById("inputs")
